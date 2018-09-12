@@ -1,3 +1,3 @@
-# Powershell-scripts
+# Powershell-scripts/Hyper-V-Virtualization
 # author Michal Czech
-# This repositorium contains various powershell script for doing administrative tasks. Each script is free to use. 
+# This repositorium contains various powershell script for virtualization in Hyper-V tasks. Each script is free to use. 
